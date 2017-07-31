@@ -13,8 +13,8 @@ Highly skilled and educated software developer with fifteen years of experience 
 **Summary of Qualifications**
 -----------------------------
 
-Proficient in Java, C#, VB.NET, VB 6 
-Additional experience with Python, Ruby, XSLT, C++, ASM
+- Proficient in Java, C#, VB.NET, VB 6 
+- Additional experience with Python, Ruby, XSLT, C++, ASM
 
 ----------
 

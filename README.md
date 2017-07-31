@@ -2,7 +2,7 @@
 
 **James R. Warlick**
 =====================
-james@jameswarlick.com ● linkedin.com/in/james-warlick-85459438
+james@jameswarlick.com ● [LinkedIn](linkedin.com/in/james-warlick-85459438)
 
 ----------
 

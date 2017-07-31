@@ -2,7 +2,7 @@
 
 **James R. Warlick**
 =====================
-james@jameswarlick.com ● [LinkedIn](linkedin.com/in/james-warlick-85459438)
+james@jameswarlick.com ● [LinkedIn](http://linkedin.com/in/james-warlick-85459438)
 
 ----------
 
@@ -91,7 +91,7 @@ As a Financial Institution Support Analyst, I was responsible for providing cust
 **Education**
 -------------
 
-**Texas A&M Commerce**
+[**Texas A&M Commerce**](http://www.tamuc.edu)
 
 2015 - 2017
 
@@ -99,7 +99,7 @@ As a Financial Institution Support Analyst, I was responsible for providing cust
 - Graduated Summa Cum Laude
 - Institution GPA: 4.0
 
-**Dallas County Community College District**
+[**Dallas County Community College District**](http://www.dcccd.edu)
 
 2012 - 2015
 

@@ -7,7 +7,7 @@
 
 ---
 
-Experienced software developer with 20+ years designing and delivering robust backend systems for financial services and tech startups. Proven expertise in Java-based architectures, Spring Boot microservices, database design, and modern DevOps workflows, driving scalable, resilient, and maintainable solutions. Skilled in managing full project lifecycles — from concept to production — with a strong emphasis on clarity, reliability, and operational excellence.
+Experienced software developer with 20+ years designing and delivering robust backend systems for financial services and tech startups. Proven expertise in Java-based architectures, Spring Boot microservices, database design, and modern DevOps workflows, driving scalable, resilient, and maintainable solutions. Skilled in managing projects through their full lifecycles — from concept to production — with a strong emphasis on clarity, reliability, and operational excellence.
 
 Currently expanding expertise in machine learning and data-centric development, building foundational projects using Python, Jupyter, NumPy, fast.ai, and scikit-learn.
 
